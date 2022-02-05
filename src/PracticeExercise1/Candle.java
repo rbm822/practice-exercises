@@ -1,4 +1,4 @@
-package CMIS242Week1;
+package PracticeExercise1;
 
 public class Candle {
     private int height;

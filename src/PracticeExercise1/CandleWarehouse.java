@@ -1,4 +1,4 @@
-package CMIS242Week1;
+package PracticeExercise1;
 
 import java.util.ArrayList;
 import java.util.List;
